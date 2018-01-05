@@ -12,6 +12,7 @@
 		45033EC91FAF0D5600B51EA8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45033EC81FAF0D5600B51EA8 /* ViewController.swift */; };
 		45033ECE1FAF0D5600B51EA8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45033ECD1FAF0D5600B51EA8 /* Assets.xcassets */; };
 		45033ED11FAF0D5600B51EA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45033ECF1FAF0D5600B51EA8 /* LaunchScreen.storyboard */; };
+		DD2C11B11FFF2B4B00A225CE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD2C11B01FFF2B4B00A225CE /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		45033ED21FAF0D5600B51EA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		68F9CF46F040291726DCBD63 /* Pods-GPSnapKitSample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GPSnapKitSample.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GPSnapKitSample/Pods-GPSnapKitSample.debug.xcconfig"; sourceTree = "<group>"; };
 		6F35C8CEB9544C009A6A0609 /* Pods_GPSnapKitSample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GPSnapKitSample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD2C11B01FFF2B4B00A225CE /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				45033ECD1FAF0D5600B51EA8 /* Assets.xcassets */,
 				45033ECF1FAF0D5600B51EA8 /* LaunchScreen.storyboard */,
 				45033ED21FAF0D5600B51EA8 /* Info.plist */,
+				DD2C11B01FFF2B4B00A225CE /* Main.storyboard */,
 			);
 			path = GPSnapKitSample;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD2C11B11FFF2B4B00A225CE /* Main.storyboard in Resources */,
 				45033ED11FAF0D5600B51EA8 /* LaunchScreen.storyboard in Resources */,
 				45033ECE1FAF0D5600B51EA8 /* Assets.xcassets in Resources */,
 			);
